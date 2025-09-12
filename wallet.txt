@@ -1,0 +1,2 @@
+'This is an wallet file
+"Here you can configure wallet
